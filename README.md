@@ -14,7 +14,7 @@ npm install styled-components-flexboxgrid --save
 
 ## Basic Usage
 
-```
+```javascript
 import React, { Component } from 'react';
 import { Col, Row } from 'styled-components-flexboxgrid'
 
