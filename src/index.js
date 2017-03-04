@@ -24,10 +24,9 @@ const CommonContainer = styled.div`
 `
 
 export const ContainerFluid = styled(CommonContainer)`
-  padding-right: var(--outer-margin, 2rem);
-  padding-left: var(--outer-margin, 2rem);
+  padding-right: ${rem(outerMargin)};
+  padding-left: ${rem(outerMargin)};
 `
-
 export const Container = styled(CommonContainer)`
   @media ${smViewport} {
     width: ${rem(containerSm)};
