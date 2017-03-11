@@ -1,6 +1,6 @@
 # styled-components-flexboxgrid
 
-(NOTE: This project is in processing.)
+(NOTE: This project is in process.)
 
 Grid layout system base on [styled-components](https://github.com/styled-components/styled-components) and inspired by [Flexbox Grid](http://flexboxgrid.com/).
 
